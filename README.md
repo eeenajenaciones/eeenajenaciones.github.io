@@ -1,4 +1,11 @@
-### Hi there 👋
+# Entrenamientos Enajenaciones Espacios
+## Estudio de territorios digitales
+
+![intro-to-cloud d49bc5f7](archivos/intro_.gif)
+
+*Estudio DPA - Territorios digitales*
+
+Redes neuronales, prototipado, algoritmia y alquimia proyectual.
 
 <!--
 **eeenajenaciones/eeenajenaciones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
